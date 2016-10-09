@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+
+#canvas {
+  position: fixed;
+  top: calc(50% - 400px);
+  left: calc(50% - 500px);
+  width: 1000px;
+  height: 800px;
+  background-color: white;
+}
+
+#images {
+  display: none;
+}
